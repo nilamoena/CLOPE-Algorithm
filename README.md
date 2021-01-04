@@ -1,4 +1,4 @@
-# Final Project PKB CLOPE-Algorithm
+# CLOPE-Algorithm
 Final Project - PKB113
 
 ## Group D - Ilmu Komputer 2018 
@@ -6,7 +6,6 @@ Final Project - PKB113
 * Nilatil Moena (1313618002)
 
 ## Reference Paper
-
 * Yiling Yang, Xudong Guan, and Jinyuan You.2002."CLOPE: A Fast and Effective Clustering Algorithm for Transactional Data" in: Proc of KDD'02(pages 682-687). Departement of Computer Science & Engineering, Shanghai Jiao Tong University. ACM  New York, NY, USA.
 * [Source](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.13.7142)
 * [Original Referenced Paper](https://github.com/nilamoena/CLOPE-Algorithm/blob/master/Paper%20CLOPE.pdf)
