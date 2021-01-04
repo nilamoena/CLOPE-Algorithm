@@ -16,7 +16,7 @@ Final Project - PKB113
 * [PDF Source](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.7142&rep=rep1&type=pdf)
 
 ## Path - Modified Source
-* [Original Referenced Paper]()
+* [Original Referenced Paper](https://github.com/nilamoena/CLOPE-Algorithm/blob/master/Paper%20CLOPE.pdf)
 * [Java Source Code](https://github.com/nilamoena/CLOPE-Algorithm/blob/master/weka/src/main/java/weka/clusterers/CLOPE.java)
 * [Compiled Weka jar](https://github.com/nilamoena/CLOPE-Algorithm/tree/master/weka/dist)
 
