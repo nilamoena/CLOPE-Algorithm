@@ -7,13 +7,9 @@ Final Project - PKB113
 
 ## Reference Paper
 
-* AUTHOR, "Yiling Yang, Xudong Guan, and Jinyuan You"
-* TITLE, "CLOPE: A Fast and Effective Clustering Algorithm for Transactional Data"
-* BOOKTITLE, "Proceedings of the eighth ACM SIGKDD international conference on Knowledge discovery and data mining"
-* YEAR, "2002"
-* PAGES, "682-687"
-* PUBLISHER, "ACM  New York, NY, USA"
+* Yiling Yang, Xudong Guan, and Jinyuan You.2002."CLOPE: A Fast and Effective Clustering Algorithm for Transactional Data" in: Proc of KDD'02(pages 682-687). Departement of Computer Science & Engineering, Shanghai Jiao Tong University. ACM  New York, NY, USA.
 * [PDF Source](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.7142&rep=rep1&type=pdf)
+* [Source](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.13.7142)
 
 ## Path - Modified Source
 * [Original Referenced Paper](https://github.com/nilamoena/CLOPE-Algorithm/blob/master/Paper%20CLOPE.pdf)
