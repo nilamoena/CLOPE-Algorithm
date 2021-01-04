@@ -11,8 +11,8 @@ Final Project - PKB113
 * [Original Referenced Paper](https://github.com/nilamoena/CLOPE-Algorithm/blob/master/Paper%20CLOPE.pdf)
 
 ## Path - Modified Source
-* [Java Source Code](https://github.com/nilamoena/CLOPE-Algorithm/blob/master/weka/src/main/java/weka/clusterers/CLOPE.java) CLOPE-Algoritma/weka/src/utama/Jawa/weka/clusterer/ CLOPE.java
-* [Compiled Weka jar](https://github.com/nilamoena/CLOPE-Algorithm/tree/master/weka/dist) CLOPE-Algoritma/weka/ dist/weka.jar
+* [Java Source Code](https://github.com/nilamoena/CLOPE-Algorithm/blob/master/weka/src/main/java/weka/clusterers/CLOPE.java) weka/src/utama/Jawa/weka/clusterer/ CLOPE.java
+* [Compiled Weka jar](https://github.com/nilamoena/CLOPE-Algorithm/tree/master/weka/dist) weka/ dist/weka.jar
 
 ## More about CLOPE
 Algoritma clustering CLOPE yaitu menggunakan fungsi kriteria global yang mencoba untuk meningkatkan overlapping intra-cluster dari item transaksi dengan meningkatkan rasio tinggi-lebar histogram cluster dan sebuah parameter untuk mengontrol ketatnya cluster, jumlah cluster yang berbeda dapat diperoleh dengan memvariasikan parameter ini.
