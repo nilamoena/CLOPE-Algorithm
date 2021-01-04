@@ -8,11 +8,10 @@ Final Project - PKB113
 ## Reference Paper
 
 * Yiling Yang, Xudong Guan, and Jinyuan You.2002."CLOPE: A Fast and Effective Clustering Algorithm for Transactional Data" in: Proc of KDD'02(pages 682-687). Departement of Computer Science & Engineering, Shanghai Jiao Tong University. ACM  New York, NY, USA.
-* [PDF Source](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.7142&rep=rep1&type=pdf)
 * [Source](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.13.7142)
+* [Original Referenced Paper](https://github.com/nilamoena/CLOPE-Algorithm/blob/master/Paper%20CLOPE.pdf)
 
 ## Path - Modified Source
-* [Original Referenced Paper](https://github.com/nilamoena/CLOPE-Algorithm/blob/master/Paper%20CLOPE.pdf)
 * [Java Source Code](https://github.com/nilamoena/CLOPE-Algorithm/blob/master/weka/src/main/java/weka/clusterers/CLOPE.java) CLOPE-Algoritma/weka/src/utama/Jawa/weka/clusterer/ CLOPE.java
 * [Compiled Weka jar](https://github.com/nilamoena/CLOPE-Algorithm/tree/master/weka/dist) CLOPE-Algoritma/weka/ dist/weka.jar
 
